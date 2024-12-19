@@ -309,7 +309,8 @@ visualize_results(model, dataloader)
 ## Output
 
 #### Output1 - Login Page
-![alt text](<img/Screenshot 2024-10-26 001155.png>)
+![Screenshot 2024-10-26 001155 (1)](https://github.com/user-attachments/assets/8de1588f-e8c9-43f2-880e-badcd0f7dabd)
+
 ![1OUTPUT SAR](https://github.com/user-attachments/assets/61196477-425d-41a8-973c-10e25f1d7ccc)
 
 
